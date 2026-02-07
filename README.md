@@ -4,10 +4,10 @@
 
 Full Stack Developer who loves turning coffee into code! ☕️ I build cool stuff on the web and occasionally break things (but always fix them... eventually 😅).
 
-- 🎯 Currently crafting web apps with **React, Node.js, and AWS**
+- 🎯 Currently crafting web apps with **React, Node.js, and PostgreSQL**
 - 🧠 Fun fact: I have a **Master's in Philosophy** - yes, I debate with my code too
 - 🌱 Always learning something new (right now it's probably breaking... I mean, testing new tech)
-- 💬 Ask me about **JavaScript, databases, cloud stuff, or why philosophy majors make great developers**
+- 💬 Ask me about **JavaScript, databases, or why philosophy majors make great developers**
 - 🎮 When I'm not coding, I'm probably debugging... or thinking about debugging
 - 📍 **Dhaka, Bangladesh** 🇧🇩
 - 📫 Reach me: send2shakil@gmail.com
@@ -30,8 +30,7 @@ Full Stack Developer who loves turning coffee into code! ☕️ I build cool stu
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### Tools & DevOps
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
