@@ -2,9 +2,9 @@
 
 ## About Me
 
-Full Stack Developer with **3.5 years of experience** specializing in the JavaScript ecosystem. I've worked with international clients building scalable web applications, AI-powered platforms, and MVPs. Currently focused on cloud infrastructure, database optimization, and creating efficient solutions for complex problems.
+Full Stack Developer with **3.5 years of experience** specializing in the JavaScript ecosystem. I build scalable web applications, AI-powered platforms, and MVPs for clients worldwide. Focused on cloud infrastructure, database optimization, and creating efficient solutions for complex problems.
 
-- 🔭 I'm currently working remotely at **Teamlance.io** as a Full Stack Developer
+- 🔭 I'm currently working as a **Full Stack Developer**
 - 🌱 I specialize in **Node.js, React, Next.js, AWS, and PostgreSQL**
 - 💡 I've scaled applications to **10,000+ MAU** and built systems processing **5,000+ pages** every 6 hours
 - 💬 Ask me about **full-stack development, cloud architecture, payment integrations, or web scraping**
