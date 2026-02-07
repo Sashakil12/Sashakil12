@@ -2,15 +2,15 @@
 
 ## About Me
 
-Full Stack Developer with **3.5 years of experience** specializing in the JavaScript ecosystem. I build scalable web applications, AI-powered platforms, and MVPs for clients worldwide. Focused on cloud infrastructure, database optimization, and creating efficient solutions for complex problems.
+Full Stack Developer who loves turning coffee into code! ☕️ I build cool stuff on the web and occasionally break things (but always fix them... eventually 😅).
 
-- 🔭 I'm currently working as a **Full Stack Developer**
-- 🌱 I specialize in **Node.js, React, Next.js, AWS, and PostgreSQL**
-- 💡 I've scaled applications to **10,000+ MAU** and built systems processing **5,000+ pages** every 6 hours
-- 💬 Ask me about **full-stack development, cloud architecture, payment integrations, or web scraping**
-- 📫 How to reach me: send2shakil@gmail.com
-- 📍 Based in **Dhaka, Bangladesh**
-- 🎓 **Master's in Philosophy** from Jahangirnagar University
+- 🎯 Currently crafting web apps with **React, Node.js, and AWS**
+- 🧠 Fun fact: I have a **Master's in Philosophy** - yes, I debate with my code too
+- 🌱 Always learning something new (right now it's probably breaking... I mean, testing new tech)
+- 💬 Ask me about **JavaScript, databases, cloud stuff, or why philosophy majors make great developers**
+- 🎮 When I'm not coding, I'm probably debugging... or thinking about debugging
+- 📍 **Dhaka, Bangladesh** 🇧🇩
+- 📫 Reach me: send2shakil@gmail.com
 
 ## 🛠️ Skills & Technologies
 
@@ -37,16 +37,6 @@ Full Stack Developer with **3.5 years of experience** specializing in the JavaSc
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 Highlights
-
-- 🎯 Scaled **AI-powered flyer platform** to **10,000+ MAU** using Firebase
-- ⚡ Built automated systems that **reduced manual work by 95%**
-- 🔧 Optimized e-commerce platform performance by **92%** (2+ min → <10 sec load time)
-- 🛠️ Developed **marketplace aggregation tool** processing **5,000+ pages every 6 hours**
-- 👨‍💼 Led development of **5 MVPs** with a team of 4 developers
-- ☁️ Expertise in **AWS** (EC2, RDS, S3, Auto Scaling, Load Balancer, Route 53)
-- 💳 Experience with **payment gateway integrations** and **third-party APIs**
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -69,7 +59,9 @@ Full Stack Developer with **3.5 years of experience** specializing in the JavaSc
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💭 "I don't always test my code, but when I do, I do it in production." 😎
+
+*Just kidding... or am I?* 🤔
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sashakil12&color=blueviolet&style=flat-square)
 
