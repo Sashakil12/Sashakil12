@@ -6,7 +6,7 @@ Full Stack Developer who loves coding at night! ☕️ I build softwares that ha
 
 I have built,
 
-An ERP that is being used by people who have spen 0 years at school at a wholesale chcken selling platform.
+An ERP which is being used by people who have spent 0 years in school, and is being used at a local wholesale chcken trading business.
 
 The most ubiquitous POS solution available to Bangladeshi businesses.
 
