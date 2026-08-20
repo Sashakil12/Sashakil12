@@ -2,12 +2,23 @@
 
 ## About Me
 
-Full Stack Developer who loves turning coffee into code! ☕️ I build cool stuff on the web and occasionally break things (but always fix them... eventually 😅).
+Full Stack Developer who loves coding at night! ☕️ I build softwares that has zero firction in terms of adaptability. Major proljects I have worked on powered businesses that other devs would never imagine touching.
+
+I have built,
+
+An ERP that is being used by people who have spen 0 years at school at a wholesale chcken selling platform.
+
+The most ubiquitous POS solution available to Bangladeshi businesses.
+
+Apps that works with hundreds of suppliers and 5k DAU (eu based); 15k active users generating $3.5K MRR.
+
 
 - 🎯 Currently crafting web apps with **React, Node.js, and PostgreSQL**
+- 🎯 Mobile apps with React Native.
+- 🎯 Backend with Express, Honojs, Spring Boot, Chi
 - 🧠 Fun fact: I have a **Master's in Philosophy** - yes, I debate with my code too
 - 🌱 Always learning something new (right now it's probably breaking... I mean, testing new tech)
-- 💬 Ask me about **JavaScript, databases, or why philosophy majors make great developers**
+- 💬 Ask me about **JavaScript, MongoDB, GO, Java or why philosophy majors make great developers**
 - 🎮 When I'm not coding, I'm probably debugging... or thinking about debugging
 - 📍 **Dhaka, Bangladesh** 🇧🇩
 - 📫 Reach me: send2shakil@gmail.com
