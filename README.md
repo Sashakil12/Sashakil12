@@ -14,8 +14,8 @@ Apps that works with hundreds of suppliers and 5k DAU (eu based); 15k active use
 
 
 - 🎯 Currently crafting web apps with **React, Node.js, and PostgreSQL**
-- 🎯 Mobile apps with React Native.
-- 🎯 Backend with Express, Honojs, Spring Boot, Chi
+- 🎯 Mobile apps with **React Native**
+- 🎯 Backend with **Express, Honojs, Spring Boot, Chi**
 - 🧠 Fun fact: I have a **Master's in Philosophy** - yes, I debate with my code too
 - 🌱 Always learning something new (right now it's probably breaking... I mean, testing new tech)
 - 💬 Ask me about **JavaScript, MongoDB, GO, Java or why philosophy majors make great developers**
