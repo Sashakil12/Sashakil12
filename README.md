@@ -39,13 +39,23 @@ Full Stack Developer who loves turning coffee into code! ☕️ I build cool stu
 
 ## 📊 GitHub Stats
 
+<!--
+  NOTE: the official github-readme-stats.vercel.app instance is down (503 DEPLOYMENT_PAUSED)
+  because the public deployment exceeded its Vercel quota. These cards point at a working
+  community mirror instead. If the mirror ever dies, swap the host for one of:
+    - github-readme-stats-eight-theta.vercel.app
+    - your own fork deployed free to Vercel (most durable):
+      https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+-->
+
 <div align="center">
 
-![Shakil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sashakil12&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img height="165" alt="Shakil's GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=Sashakil12&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" alt="Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sashakil12&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashakil12&layout=compact&theme=radical&hide_border=true)
+<img width="98%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Sashakil12&theme=radical&hide_border=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sashakil12&theme=radical&hide_border=true)
+<img width="98%" alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sashakil12&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 
 </div>
 
